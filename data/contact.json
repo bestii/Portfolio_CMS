@@ -1,7 +1,7 @@
 {
-    "title": "Contact",
-    "description": "Do you want to talk about job opportunities? Here are ways to contact me.",
-    "email": "contact@bestinjohn",
-    "mobile": "+(49) 15678410348",
-    "address": "Kaiserslautern, Germany"
+    "subheading": "What’s Next?",
+    "heading": "Get In Touch",
+    "description": "I'm currently available for freelance work and open to full-time opportunities. Feel free to reach out if you have a project in mind or just want to connect!",
+    "buttonText": "Say Hello",
+    "email": "contact@bestinjohn.com"
 }
