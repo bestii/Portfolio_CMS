@@ -1,33 +1,7 @@
 {
-    "title": "About",
-    "description": "Want to know more about me? Here is the list of skills that I am good at.",
-    "mainDescription1": "I am an enthusiastic programmer who loves to explore new technologies and innovations. Completed my Bachelor's degree from Govt. Model Engineering College(Thrikkakara) in Computer Science & Engineering.",
-    "mainDescription2": "I am pursuing a Master's degree in Computer Science from Technische Universität Kaiserslautern, Germany. I enjoy learning new concepts and methodologies to develop high-performance software and connect with people of similar interests.",
-    "profileImg": {
-        "smallImg": "portrait.jpg",
-        "largeImg": "portrait.jpg"
-    },
-    "skillList1": [
-        "Frontend Development",
-        "SEO",
-        "Optimization"
-    ],
-    "skillList2": [
-        "Prototyping",
-        "Accessibility"
-    ],
-    "skillBar": [
-        {
-            "name": "HTML",
-            "value": 90
-        },
-        {
-            "name": "CSS",
-            "value": 80
-        },
-        {
-            "name": "JavaScript",
-            "value": 95
-        }
+    "paragraphs": [
+        "I build thoughtful digital products with a focus on clarity, performance, and accessibility.",
+        "My work has ranged from marketing sites to product interfaces, and I enjoy shaping experiences that feel polished without getting in the way of the content.",
+        "I’m currently focused on building accessible, performant, and scalable web applications with React and modern web technologies."
     ]
 }
