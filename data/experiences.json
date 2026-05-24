@@ -1,0 +1,29 @@
+[
+    {
+        "label": "Staffbase SE",
+        "title": "Frontend Engineer @ Staffbase SE, Germany",
+        "timeframe": "2025 - Present",
+        "bullets": [
+            "Deepened my understanding of Computer Science in the field of Software Engineering and Intelligent Systems."
+        ],
+        "url": "https://staffbase.com/"
+    },
+    {
+        "label": "Fraunhofer IESE",
+        "title": "Frontend Engineer @ Fraunhofer IESE, Germany",
+        "timeframe": "2023 - 2025",
+        "bullets": [
+            "Deepened my understanding of Computer Science in the field of Software Engineering and Intelligent Systems."
+        ],
+        "url": "https://www.iese.fraunhofer.de/"
+    },
+    {
+        "label": "McFadyen Digital",
+        "title": "UI developer @ McFadyen Digital, India",
+        "timeframe": "2016 - 2020",
+        "bullets": [
+            "Deepened my understanding of Computer Science in the field of Software Engineering and Intelligent Systems."
+        ],
+        "url": "https://mcfadyen.com/"
+    }
+]
