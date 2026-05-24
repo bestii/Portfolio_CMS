@@ -1,4 +1,25 @@
 {
-  "socials":[],
+  "socials": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/bestinjohn"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/bestii"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/iambestin/"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/_bestinjohn"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/bestin-john/"
+    }
+  ],
   "email": "contact@bestinjohn.com"
 }
