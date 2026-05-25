@@ -1,7 +1,8 @@
 [
   {
-    "label": "Master's Degree",
-    "title": "Master of Science in Computer Science",
+    "label": "RPTU Kaiserslautern-Landau",
+    "title": "MSc",
+    "titleLinkText": "RPTU",
     "timeframe": "2020 - 2023",
     "bullets": [
       "Deepened my understanding of Computer Science in the field of Software Engineering and Intelligent Systems."
@@ -9,8 +10,9 @@
     "url": "https://rptu.de/"
   },
   {
-    "label": "Bachelor's Degree",
-    "title": "Bachelor of Science in Computer Science From Model Engineering College, India",
+    "label": "Model Engineering College",
+    "title": "BSc",
+    "titleLinkText": "Model Engineering College",
     "timeframe": "2012 - 2016",
     "bullets": [
       "Deepened my understanding of Computer Science in the field of Software Engineering and Intelligent Systems."
