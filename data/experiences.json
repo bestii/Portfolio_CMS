@@ -5,28 +5,40 @@
         "titleLinkText": "Staffbase SE",
         "timeframe": "2025 - Present",
         "bullets": [
-            "Deepened my understanding of Computer Science in the field of Software Engineering and Intelligent Systems."
+            "Engineered a high-performance short-form media feed inspired by Instagram Reels and YouTube Shorts, featuring infinite scrolling, live reactions, threaded comments, and AI-powered subtitle generation.",
+            "Built cross-platform audio playback experiences including mini-player and full-screen podcast player with persistent background playback and seamless session continuity.",
+            "Implemented analytics and monitoring solutions to track feature adoption, customer interactions, and performance metrics, enabling data-driven product decisions.",
+            "Contributed to the migration of a large-scale application from React 17 to React 19, resolving compatibility issues and adopting modern React APIs and patterns."
         ],
-        "url": "https://staffbase.com/"
+        "url": "https://staffbase.com/",
+        "tech": ["React", "HTML5", "CSS3", "TypeScript", "Vitest", "Jest", "Playwright", "Tailwind CSS"]
     },
     {
         "label": "Fraunhofer IESE",
-        "title": "Smart City Engineer",
+        "title": "Frontend Engineer",
         "titleLinkText": "Fraunhofer IESE",
-        "timeframe": "2023 - 2025",
+        "timeframe": "2021 - 2025",
         "bullets": [
-            "Deepened my understanding of Computer Science in the field of Software Engineering and Intelligent Systems."
+            "Improved UI consistency and accelerated feature development by building and maintaining a reusable React component library published to a private NPM registry.",
+            "Automated the generation of TypeScript typings and API SDKs using OpenAPI Generator, reducing manual effort and enhancing developer efficiency.",
+            "Implemented a scalable monorepo architecture with PNPM and Nx, reducing build times by 50%, improving dependency management, and enabling seamless collaboration across 3+ teams.",
+            "Optimized accessibility and SEO by fixing 100+ a11y errors, ensuring WCAG 2.1 AA compliance, and boosting Lighthouse scores by 20%."
         ],
-        "url": "https://www.iese.fraunhofer.de/"
+        "url": "https://www.iese.fraunhofer.de/",
+        "tech": ["HTML5", "CSS3", "TypeScript", "React", "Next.js", "Tailwind CSS", "Vitest", "Unit Testing"]
     },
     {
         "label": "McFadyen Digital",
-        "title": "UI developer",
+        "title": "UI Developer",
         "titleLinkText": "McFadyen Digital",
         "timeframe": "2016 - 2020",
         "bullets": [
-            "Deepened my understanding of Computer Science in the field of Software Engineering and Intelligent Systems."
+            "Developed and maintained large-scale B2B and B2C e-commerce single-page applications using Oracle Commerce Cloud.",
+            "Led extensive customization of out-of-the-box (OOTB) modules and integrated third-party libraries to meet specific client needs.",
+            "Provided Tier 2 - 3 operational support for the live application, ensuring its smooth operation and promptly addressing any issues.",
+            "Collaborated with cross-functional teams across design, architecture, implementation, and testing, ensuring on-time delivery and maintaining high code quality."
         ],
-        "url": "https://mcfadyen.com/"
+        "url": "https://mcfadyen.com/",
+        "tech": ["HTML", "CSS", "JavaScript", "TypeScript", "Knockout.js", "jQuery", "Bootstrap", "Oracle Commerce Cloud"]
     }
 ]
